@@ -1,2 +1,0 @@
-# GetTimeSince
-Created with CodeSandbox
